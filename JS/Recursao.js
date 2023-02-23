@@ -1,3 +1,4 @@
+// a recursão se baseia na chamada da função dentro da própria função
 function recursao(n) {
 
   if(n - 1 < 2) {
